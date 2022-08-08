@@ -1,3 +1,5 @@
-# The-learner
 
-### The lover
+# Joshua Olajuwon - Contribution
+
+A brief description of what this project does and who it's for
+
